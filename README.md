@@ -1,2 +1,2 @@
-# Shelm-Realm
-The *realm* of the *shelm*.
+# Shelm-Relm
+The *relm* of the *shelm*.
